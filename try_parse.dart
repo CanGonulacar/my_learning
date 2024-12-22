@@ -1,0 +1,1 @@
+// TryParse Örneği ile yalnızca 1111 koyabiliriz.(int.tryParse) abc olamaz. null Check
